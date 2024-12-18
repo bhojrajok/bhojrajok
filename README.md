@@ -2,7 +2,7 @@
 <h3 align="center">ok</h3>
 <img align='center' alt='Coding' Width='1000' src='https://i.imgur.com/JUA1M0V.gif'></img>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bhojrajok&label=Profile%20views&color=0e75b6&style=flat" alt="bhojrajok" /> </p>
+<p align="left"> <img src="https://i.imgur.com/JUA1M0V.gif" alt="bhojrajok" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
