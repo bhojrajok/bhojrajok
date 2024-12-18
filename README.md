@@ -1,5 +1,5 @@
 <h1 align="center">Hi I'm Bhojraj Singh</h1>
-<h3 align="center">Something is better than nothing but it aint best so always going hard.</h3>
+<h3 align="center">Something is better then nothing but it aint best so always going hard.</h3>
 <img align='center' alt='Coding' Width='1000' src='https://i.pinimg.com/originals/de/d3/db/ded3dbdd3c071ea6d8bc59e32ccced24.gif'></img>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhojrajok&label=Profile%20views&color=0e75b6&style=flat" alt="bhojrajok" /> </p>
 <h3 align="left">Connect with me:</h3>
